@@ -20,13 +20,13 @@
 - 我会不定时更新一些有用的教程。
 
 * **本站技术栈 (Tech Stack)**:
-    * 该博客本身也是一个开源项目 [portfolio](https://github.com/Gsheep0729/portfolio)，基于 **Next.js 15**、**React 19** 和 **Tailwind CSS v4** 构建，集成了 i18n 国际化支持。
+    * 该博客本身也是一个开源项目 ，基于 **Next.js 15**、**React 19** 和 **Tailwind CSS v4** 构建，集成了 i18n 国际化支持。
 
 ---
 
 ### 🚀 Tech Stack & Skills
 
-| 领域 (Domain)          | 技术栈 (Technologies)                                        |
+| Domain (领域)          | Technologies (技术栈)                                        |
 | :--------------------- | :----------------------------------------------------------- |
 | **Embedded (嵌入式)** | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![ARM](https://img.shields.io/badge/-ARM-0091BD?style=flat-square&logo=arm&logoColor=white) **51 MCU**, **STM32**, UART/I2C/SPI, Keil |
 | **Desktop (桌面开发)** | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white) **Qt 5/6**, GUI Design, Event System, SQL |
